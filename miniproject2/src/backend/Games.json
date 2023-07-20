@@ -1,0 +1,4 @@
+[
+    {"id": 0, "location": "Victoria Park", "locationImg": "https://www.aucklandcouncil.govt.nz/parks-recreation/get-outdoors/aklpaths/AKLPathImages/339_VictoriaParkPath06.jpg?RenditionID=8", "players": ["Stanley","Sebastian"], "host": "Ethan", "hostImg": "https://news.artnet.com/app/news-upload/2019/01/Cat-Photog-Feat-256x256.jpg", "date" : "21-07-2022" },
+    {"id": 1, "location": "Dominion Road", "locationImg": "https://lh3.googleusercontent.com/p/AF1QipNXwY4_8s2QCccS7RXFRqmNN0P9hu_RFS-KMQEQ=s680-w680-h510", "players": ["Ethan","Steven"], "host": "Mirza", "hostImg": "https://cdn.neighbourly.co.nz/images/cache/message_image_thumbnail/message_images/5cf543fc2f1ca5.67603779.jpeg?170410", "date" : "30-07-2022" }
+]  
